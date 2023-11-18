@@ -115,7 +115,10 @@ AUC ROC Curves:</li></p>
 
 * A screenshot of the app is available:
 
- <img src="imgs/WebApp.png" alt="Model Architecture">
+
+<p style="margin: 0 auto; height: 300px; width: 500px; text-align: center;">
+  <img src="imgs/webpage.jpeg" alt="Model Architecture">
+</p>
 
 
 
