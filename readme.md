@@ -1,5 +1,4 @@
 
-## Project Overview
 
 <h3 align="center" style=" line-height: 1.5;">The project is a Computer Vision-Based Defect Assessment System of Images of Pump Impellers.<br>
 
@@ -8,6 +7,14 @@ The full working danago app can be accessed at <a >impellerdefectasssessment.azu
 
 The Github Repo for the Django Project can be accessed at <a >https://github.com/Hypatchia/DefectAssessment-Images-Django</a></h3>
 
+## Project Overview
+In the field of industrial maintenance, where precision and efficiency are crucial, this work stands out.
+
+The primary objective is to provide a robust and accurate system capable of identifying and classifying defects in pump impeller images. By harnessing the power of advanced computer vision techniques and machine learning, the aim is to elevate maintenance practices and enhance overall equipment reliability.
+
+The main goal is to establish a reliable system for identifying and categorizing defects in pump impeller images. By utilizing advanced computer vision and machine learning, the intention is to improve maintenance practices and boost overall equipment reliability.
+
+This work holds significance as it seeks to redefine maintenance approaches. The focus is on introducing practical solutions that go beyond industry standards. Identifying and categorizing defects is not just about diagnosis but a proactive step to address issues early, minimizing downtime, and optimizing equipment reliability.
 
 ### Built with:
 
