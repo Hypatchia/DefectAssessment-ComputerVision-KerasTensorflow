@@ -3,7 +3,7 @@
 <h3 align="center" style=" line-height: 1.5;">The project is a Computer Vision-Based Defect Assessment System of Images of Pump Impellers.<br>
 
 <br>
-The full working danago app can be accessed at <a >impellerdefectasssessment.azurewebsites.net</a>
+The full working django app can be accessed at <a >impellerdefectasssessment.azurewebsites.net</a>
 
 The Github Repo for the Django Project can be accessed at <a >https://github.com/Hypatchia/DefectAssessment-Images-Django</a></h3>
 
